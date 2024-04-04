@@ -17,10 +17,10 @@ Si bien lo tenía publicado, no lo documenté porque estaba en proceso de aprend
 Dos años después de haberlo creado, revisé su estructura, y encontre muchos detalles que no me gustaron:
 
 <ol>
-<li>No se habián definido los diferentes script como módulos.</li>
-<li>No se especificaba rutas entre los script en la cabecera.</li>
-<li>la revisión de la lógica de ejecución se hacia aburrida.</li>
-<li>La ejecución de los scrits se efectuaban en cascada desde HTML</li>
+<li>No se habián definido los diferentes Script como módulos.</li>
+<li>No se especificaba rutas entre los Script en la cabecera.</li>
+<li>La revisión de la lógica de ejecución se hacia aburrida.</li>
+<li>La ejecución de los Scripts se efectuaban en cascada desde HTML</li>
 </ol>
 
 Sin embargo, tambien encontré detalles que aún me siguen gustando y su valor no deja de estar vigente hoy en dia. Por lo tanto, consideré que es necesario hacer algo al respecto. Y este repositorio es su resultado.
