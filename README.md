@@ -19,7 +19,7 @@ Dos años después de haberlo creado, revisé su estructura, y encontré muchos 
 <ol>
 <li>No se habián definido los diferentes Script como módulos.</li>
 <li>No se especificaba rutas entre los Script en la cabecera.</li>
-<li>La revisión de la lógica de ejecución se hacia aburrida.</li>
+<li>La revisión de la lógica de ejecución se hacía aburrida.</li>
 <li>La ejecución de los Scripts se efectuaban en cascada desde HTML</li>
 </ol>
 
