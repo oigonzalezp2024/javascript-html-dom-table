@@ -14,7 +14,7 @@ https://github.com/OscarGonzalezADSI/javascript-html-dom-table
 
 Si bien lo tenía publicado, no lo documenté porque estaba en proceso de aprendizaje, y como es normal, con mi falta de experiencia en ese entonces, cometí ese error.
 
-Dos años después de haberlo creado, revisé su estructura, y encontre muchos detalles que no me gustaron:
+Dos años después de haberlo creado, revisé su estructura, y encontré muchos detalles que no me gustaron:
 
 <ol>
 <li>No se habián definido los diferentes Script como módulos.</li>
