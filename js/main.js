@@ -1,3 +1,5 @@
+import {viewDeveloper, viewPerson, viewProduct} from "./view.js";
+
 const developers = [
   {
     "developer" : "Óscar González",

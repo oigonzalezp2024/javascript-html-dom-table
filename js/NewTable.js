@@ -1,4 +1,5 @@
-class NewTable
+
+export class NewTable
 {
   constructor(tableId, name, className, data)
   {
@@ -47,21 +48,21 @@ class NewTable
     for(let i=0; oneRecord >i; i++)
     {
       rows[i] = table.insertRow();
-      this.rowRecord(table, rows, data, i);
+      this.rowRecord(rows, data, i);
     }
   }
   
-  rowRecord(table, rows, data, i)
+  rowRecord(rows, data, i)
   {
     const dataLength = Object.keys(data[0]).length;
     const row = rows[i];
     for(let ii=0; dataLength > ii; ii++)
     {
-      this.rowColumn(table, row, data, i, ii);
+      this.rowColumn(row, data, i, ii);
     }
   }
   
-  rowColumn(table, row, data, i, ii)
+  rowColumn(row, data, i, ii)
   {
     const text = data[i][Object.keys(data[0])[ii]];
     const textz = document.createTextNode(text);

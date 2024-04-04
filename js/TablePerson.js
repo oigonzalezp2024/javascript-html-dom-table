@@ -1,6 +1,9 @@
-class TablePerson extends NewTable
+
+import { NewTable } from "./NewTable.js";
+
+export class TablePerson extends NewTable
 {
-  title(table, thead, theadtr, data)
+  title(table, thead, theadtr)
   {
     this.titleColumn(theadtr, "id");
     this.titleColumn(theadtr, "name");
