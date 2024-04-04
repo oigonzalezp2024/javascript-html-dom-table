@@ -3,7 +3,7 @@ import {viewDeveloper, viewPerson, viewProduct} from "./view.js";
 const developers = [
   {
     "developer" : "Óscar González",
-    "phone" : "(+57)322-8858439"
+    "phone" : "(+57)3134563202"
   }
 ];
 
