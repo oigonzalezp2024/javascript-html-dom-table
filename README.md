@@ -1,11 +1,11 @@
-# javascript-html-dom-table.
+# javascript-html-dom-table
 
 Esta propuesta de trabajo es para proyectos 
 de desarrollo web que requieran usar Javascript 
 puro para mostrar datos en tablas usando DOM 
 Javascript Puro.
 
-## Sobre este repositorio.
+## Sobre este repositorio
 
 Este repositorio es una bifurcación de un proyecto
 que tenía alojado en mi primer cuenta de github
@@ -24,7 +24,7 @@ Dos años después de haberlo creado, revisé su estructura, y encontré muchos 
 </ol>
 
 Sin embargo, tambien encontré detalles que aún me siguen gustando y su valor no deja de estar vigente hoy en dia. Por lo tanto, consideré que es necesario hacer algo al respecto. Y este repositorio es su resultado.
-## Vista de ejecución.
+## Vista de ejecución
 
 ![alt text](./images/despliegle.png)
 
