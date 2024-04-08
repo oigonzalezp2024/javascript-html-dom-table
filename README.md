@@ -1,4 +1,4 @@
-# javascript-html-dom-table
+# Javascript HTML DOM Table
 
 Esta propuesta de trabajo es para proyectos 
 de desarrollo web que requieran usar Javascript 
